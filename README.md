@@ -1,1 +1,1 @@
-# Hastane-Y-netim-Projesi
+# Hastane-Yonetim-Projesi
